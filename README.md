@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/brailleapps/braille-utils-cli.svg?branch=master)](https://travis-ci.org/brailleapps/braille-utils-cli)
 [![Type](https://img.shields.io/badge/type-application-blue.svg)](https://github.com/brailleapps/wiki/wiki/Badges)
 
 Note: This project has been merged into Dotify (https://github.com/brailleapps/dotify-cli) and 
