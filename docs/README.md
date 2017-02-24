@@ -1,3 +1,6 @@
+Note: This project has been merged into Dotify (https://github.com/brailleapps/dotify-cli) and 
+will not be updated anymore. Please use Dotify in the future.
+
 # Braille Utils #
 Contributors: Joel Håkansson, Bert Frees
 Code license: GNU Lesser GPL

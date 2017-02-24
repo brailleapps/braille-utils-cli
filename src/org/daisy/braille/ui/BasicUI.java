@@ -176,6 +176,8 @@ public class BasicUI extends AbstractUI {
 	 * @throws Exception if something goes wrong
 	 */
 	public static void main(String[] args) throws Exception {
+		System.err.println("Note: This project has been merged into Dotify (https://github.com/brailleapps/dotify-cli).\n"
+				+ "This application will not be updated anymore.\nPlease use Dotify from now on.\n");
 		BasicUI ui = new BasicUI(args);
 		ui.run();
 	}
